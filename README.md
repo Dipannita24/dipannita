@@ -1,4 +1,3 @@
-# dipannita
 <html>
 <head>
 <title>Curriculum Vitae</title>
